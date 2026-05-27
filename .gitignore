@@ -22,6 +22,8 @@ screenshots/
 progress.json
 progress.json.tmp
 data/*.tmp
+data/*.json
+data/modules.json
 *.log
 
 # IDE specific files
