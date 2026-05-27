@@ -1,0 +1,31 @@
+# Python environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environments
+venv/
+.venv/
+env/
+ENV/
+
+# Local collector logs, progress state and screenshots
+collector/logs/
+collector/screenshots/
+collector/progress.json
+collector/progress.json.tmp
+collector/data/*.tmp
+
+logs/
+screenshots/
+progress.json
+progress.json.tmp
+data/*.tmp
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+.project
+.settings/
